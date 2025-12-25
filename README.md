@@ -1,10 +1,8 @@
-# Green Theme Portal 🟢
-
-Welcome to the Green Theme Portal. This project provides a sleek, terminal-inspired "Matrix" green aesthetic for web applications.
+# Green Theme
 
 ## 🎨 Global Green Theme CSS
 
-Add the following code to your project's stylesheet or inject it via a script to apply the theme globally.
+Add the following code to project's stylesheet or inject it via a script to apply the theme globally.
 
 ```css
 /* ===== Global Green Theme ===== */
@@ -41,18 +39,6 @@ button:hover {
 }
 ```
 
-### 🛠 How to apply
-
-To use this code in your script, you can inject it into the document head:
-
-```javascript
-const style = document.createElement('style');
-style.textContent = `
-/* ... paste the CSS code here ... */
-`;
-document.head.appendChild(style);
-```
-
 ---
 
 ## 📸 Project Gallery
@@ -83,4 +69,4 @@ A showcase of the Green Theme applied across various sections of the platform.
 </table>
 
 ---
-Designed for the ultimate gaming and coding experience.
+
