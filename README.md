@@ -49,7 +49,7 @@ A showcase of the Green Theme applied across various sections of the platform.
   <tr>
     <td align="center">
       <img src="assets/dashboard.png" width="400px" alt="Topic View"/><br/>
-      <b>Dashboard / Topic View</b>
+      <b>Post View</b>
     </td>
     <td align="center">
       <img src="assets/score_board.png" width="400px" alt="Live Score"/><br/>
